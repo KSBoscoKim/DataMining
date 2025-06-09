@@ -1,7 +1,6 @@
 # DataMining
 
 ## Data Preprocessing
-***
 ### 데이터
 행정동 추정매출
 https://data.seoul.go.kr/dataList/OA-22175/S/1/datasetView.do
